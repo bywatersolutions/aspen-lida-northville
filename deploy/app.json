@@ -1,0 +1,15 @@
+{
+      "name": "Northville District Library",
+      "slug": "northville",
+      "easId": "66680edf-0543-4586-b899-31a9979ddf07",
+      "reverseDns": "org.aspendiscovery.northville",
+      "discoveryUrl": "https://northville.aspendiscovery.org",
+      "greenhouseUrl": "https://northville.aspendiscovery.org",
+      "libraryId": "1",
+      "themeId": "1",
+      "background": "#000000",
+      "sentryProject": "aspen-lida-northville",
+      "sentryDsn": "https://643f894419b6b9474cbe986cd81b4389@o994439.ingest.us.sentry.io/4511887063777280",
+      "ascAppId": "",
+      "logLevel": "0"
+}
