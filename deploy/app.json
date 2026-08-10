@@ -10,6 +10,6 @@
       "background": "#000000",
       "sentryProject": "aspen-lida-northville",
       "sentryDsn": "https://643f894419b6b9474cbe986cd81b4389@o994439.ingest.us.sentry.io/4511887063777280",
-      "ascAppId": "",
+      "ascAppId": "6800003590",
       "logLevel": "0"
 }
