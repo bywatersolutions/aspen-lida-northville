@@ -187,7 +187,9 @@ jobs:
       
       - name: Debug expo config
         working-directory: ./code 
-        run: npx expo config --json --type public
+        run: |
+          node -e "console.log(JSON.stringify(require('./app.config.js')(), null, 2))"
+          npx expo config --type prebuild
 
       - name: 📱 Build App for ${{ matrix.platform }}
         run: |
